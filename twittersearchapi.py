@@ -1,6 +1,6 @@
 #Simple Developer Blog: www.simpledeveloper.wordpress.com
 #Python code to make simple Twitter searches using
-#user entered arguments
+#user-entered arguments
 #2013 - Mozilla P2PU Challenge - Programming with Twitter API
 
 import json
